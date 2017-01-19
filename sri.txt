@@ -1,2 +1,2 @@
-this is a sample 
-hi
+Block device is stored in the /dev directory 
+
